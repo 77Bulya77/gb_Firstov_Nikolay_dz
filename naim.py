@@ -1,4 +1,4 @@
-# def num_translate():
+# fffdef num_translate():
 #   if i in range[english_words()]
 #       return
 

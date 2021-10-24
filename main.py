@@ -1,7 +1,10 @@
 # Задание 1
 def num_translate():
-    text=(input('Введите число на английском--> '))
-    print('Перевод слова на русском--> ' + russian_dict[text])
+    text=(input('Введите число на Аглийском--> '))
+    print('Перевод слова на Русском--> ' + russian_dict[text])
+
+
+
 
 russian_dict = {
     'one':'один',
